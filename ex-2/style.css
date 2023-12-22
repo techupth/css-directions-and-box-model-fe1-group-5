@@ -1,1 +1,25 @@
 /* Start coding here */
+
+section {
+    border: 16px solid gray;
+    background-color: black;
+    padding: 30px;
+    width: 1100px;
+}
+div {
+    width: 1000px;
+    height: 600px;
+    padding: 30px;
+  background-color: khaki;
+    border: 32px solid crimson;
+
+}
+
+*{
+
+   box-sizing: border-box;
+}
+p{
+    font-size: 72px;
+    text-align: center;
+}

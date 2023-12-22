@@ -1,1 +1,29 @@
 /* Start coding here */
+.Travel_blog {
+padding:20px 20px 20px 20px;
+    background-color: lightblue;
+    border: 10px;
+
+}
+
+.cafe-box{
+    width: 500px;
+    height: 350px;
+    padding: 10px;
+    background-color:lightblue;
+    border: 3px solid black;
+}
+.box{
+    width: 250px;
+    height: 100px;
+    background-color: white;
+    border: 1px;
+}
+*{
+    box-sizing: border-box;
+}
+
+h4{
+    color: blue;
+
+}
