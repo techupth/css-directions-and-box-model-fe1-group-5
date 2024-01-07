@@ -1,1 +1,26 @@
 /* Start coding here */
+section {
+    background-color: black;
+    border: 16px solid lightgray;
+    width: 1500px;
+    height: 800px;
+    padding: 16px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+div {
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+    background-color: khaki;
+    border: 24px solid crimson;
+}
+
+p {
+    color: black;
+    font-size: 72px;
+    padding: 30px 500px 30px 500px;
+}

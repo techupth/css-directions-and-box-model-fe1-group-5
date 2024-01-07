@@ -1,1 +1,25 @@
-/* Start coding here */
+.Travel_blog {
+    color: #344e67;
+    padding: 20px 20px 20px 20px;
+    background-color: lightblue;
+    border: 5px;
+}
+
+.travel-box {
+    width: 700px;
+    height: 400px;
+    padding: 20px;
+    background-color: lightgray;
+    border: 3px solid gray;
+}
+
+.img-box {
+    width: 400px;
+    height: 200px;
+    background-color: aliceblue;
+    border: 1px solid gray;
+}
+
+h2, p {
+    color: #344e67;
+}
